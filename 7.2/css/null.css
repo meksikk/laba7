@@ -1,0 +1,45 @@
+@font-face {
+  font-family: Playfair Display;
+  font-weight: 400;
+  src: url(../fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf);
+}
+@font-face {
+  font-family: Playfair Display;
+  font-weight: 700;
+  src: url(../fonts/PlayfairDisplay/PlayfairDisplay-Bold.ttf);
+}
+@font-face {
+  font-family: Post No Bills Jaffna;
+  font-weight: 700;
+  src: url(../fonts/PostNoBillsJaffna/PostNoBillsJaffna-Bold.ttf);
+}
+@font-face {
+  font-family: PT Sans;
+  font-weight: 400;
+  src: url(../fonts/PtSans/PTSans-Regular.ttf);
+}
+@font-face {
+  font-family: PT Sans;
+  font-weight: 700;
+  src: url(../fonts/PtSans/PTSans-Bold.ttf);
+}
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1170px;
+  padding: 0 30px;
+}
